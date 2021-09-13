@@ -1,8 +1,12 @@
 # movie_list_app
 
-A new Flutter project.
+Add movies you watched before 
+## FrontView
+<img src="https://user-images.githubusercontent.com/54473532/133113423-c6100816-60fd-4841-b497-168314659dbf.png"  width="330" height="600" />
+
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
