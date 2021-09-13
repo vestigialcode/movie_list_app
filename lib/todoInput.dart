@@ -35,7 +35,6 @@ class _TodoInputState extends State<TodoInput> {
           child: TextField(
             controller: _todoController,
             keyboardType: TextInputType.multiline,
-            maxLines: 2,
             decoration: InputDecoration(labelText: 'Directors name'),
             onSubmitted: (_) {
               _submitData();
